@@ -1,0 +1,16 @@
+a{
+    font-family: 'Noto Serif', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sigmar', cursive;
+}
+
+.nav-cor{
+    background-color: rgba(129, 36, 36, 0.719);
+    font-size: 20px;
+}
+
+.letra{
+    color: white;
+    font-size: 20px;
+}
